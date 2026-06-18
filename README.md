@@ -41,7 +41,7 @@ This application utilizes the official [GitHub REST API v3](https://developer.gi
 ```json
 {
   "status": 404,
-  "message": "User nonexistinguser not found on GitHub"
+  "message": "User nonexistinguser not found"
 }
 ```
 
